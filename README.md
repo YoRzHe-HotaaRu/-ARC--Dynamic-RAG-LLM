@@ -15,9 +15,7 @@
   <img src="https://img.shields.io/badge/Tests-42%20Passing-green?style=flat-square" alt="Tests">
 </p>
 
-<p align="center">
-  Live link: https://arc-dynamic-llm.vercel.app/
-</p>
+
 ---
 
 ## ✨ Features
