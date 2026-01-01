@@ -176,5 +176,5 @@ MIT License - see [LICENSE](LICENSE) for details.
 ---
 
 <p align="center">
-  Built with ❤️ using Next.js and TypeScript
+  Built by ClaRity Group
 </p>
